@@ -1,0 +1,33 @@
+
+.navbar-nav {
+  justify-content: center;
+}
+
+img {
+  width: 100vw;
+}
+
+
+
+.contacts {
+  background-color: #603b53;
+  color: white;
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+form {
+  justify-content: center;
+  text-align: center;
+  margin-top: 100px;
+}
+
+h3 {
+  padding: 20px;
+}
+
+label {
+margin: 10px 10px;
+align-items: center;
+}
